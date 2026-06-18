@@ -8,7 +8,7 @@ I'm a robotics and hardware engineer at **[Tario Marine Technologies](https://ta
 
 ## Publications
 
-- **[Physics-based Approximation and Prediction of Speedlines in Compressor Performance Maps](https://arxiv.org/abs/2603.11317)** · arXiv:2603.11317 (2026) · First Author
+- **[Physics-based Approximation and Prediction of Speedlines in Compressor Performance Maps](https://arxiv.org/abs/2603.11317)** · arXiv:2603.11317 (2026)
 
 A physics-based method for reconstructing compressor performance maps from sparse measurements. Each speedline is fit with a superellipse and encoded as a compact, interpretable vector (surge, choke, curvature, shape), then used to interpolate and extrapolate unmeasured speedlines. Validated on industrial turbocharger data. Code: [spotspeedlines](https://github.com/sequential-parameter-optimization/spotspeedlines).
 
