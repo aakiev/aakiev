@@ -1,10 +1,6 @@
 # Malik Akiev
 
-**Electrical and automation engineer working across machine learning, control theory, robotics and scientific software.**
-
-I build things from scratch before I trust them. A neural network written by hand in C#, optimization algorithms coded line by line instead of imported from a library. That habit carries into my research and applied work, from neural-network models of optical systems at Bosch to ROS2 autonomous-driving and control-system projects. I move comfortably between ML, control engineering, and the software that ties them to real hardware.
-
-For my B.Eng. thesis at Bosch Manufacturing Solutions I used neural networks to model optical light propagation for dynamic laser beam shaping.
+**Electrical and Automation engineer working across machine learning, control theory, robotics and scientific software.**
 
 ---
 
