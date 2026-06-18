@@ -2,14 +2,15 @@
   <img src="banner.svg" alt="Malik Akiev | Electrical Engineering | Software | Robotics" width="100%">
 </p>
 
-I'm a robotics and hardware engineer at **[Tario Marine Technologies](https://tariomarine.com)** in Toronto, building autonomous surface vessel (ASV) hardware across mechanics, electronics, and control software. Before Toronto I graduated top of my year in Electrical Engineering (Automation Technology) and published first-author research on physics-based modeling of compressor performance maps. I build systems from the ground up, from neural networks written by hand to control loops running on real hardware.
+I'm a robotics and hardware engineer at **[Tario Marine Technologies](https://tariomarine.com)** in Toronto, building autonomous surface vessel (ASV) hardware across mechanics, electronics, and control software. Before Toronto I graduated top of my year in Electrical Engineering (Automation Technology) and published first-author research on physics-based modeling of compressor performance maps.
 
 ---
 
 ## Publications
 
-- **[Physics-based Approximation and Prediction of Speedlines in Compressor Performance Maps](https://arxiv.org/abs/2603.11317)** · arXiv:2603.11317 (2026) · first author
-  A physics-based method for reconstructing compressor performance maps from sparse measurements. Each speedline is fit with a superellipse and encoded as a compact, interpretable vector (surge, choke, curvature, shape), then used to interpolate and extrapolate unmeasured speedlines. Validated on industrial turbocharger data. Code: [spotspeedlines](https://github.com/sequential-parameter-optimization/spotspeedlines).
+- **[Physics-based Approximation and Prediction of Speedlines in Compressor Performance Maps](https://arxiv.org/abs/2603.11317)** · arXiv:2603.11317 (2026) · First Author
+
+A physics-based method for reconstructing compressor performance maps from sparse measurements. Each speedline is fit with a superellipse and encoded as a compact, interpretable vector (surge, choke, curvature, shape), then used to interpolate and extrapolate unmeasured speedlines. Validated on industrial turbocharger data. Code: [spotspeedlines](https://github.com/sequential-parameter-optimization/spotspeedlines).
 
 ---
 
@@ -18,7 +19,7 @@ I'm a robotics and hardware engineer at **[Tario Marine Technologies](https://ta
 - **[NeuralNetwork-WPF](https://github.com/aakiev/NeuralNetwork-WPF)**: A neural network built from scratch in C#, with a WPF interface for image recognition. No ML framework, just the math implemented directly. `C#` `WPF`
 - **[Dynamic-System-Optimization](https://github.com/aakiev/Dynamic-System-Optimization)**: Python implementations of dynamic-system optimization methods written for transparency: ARX modeling, linear programming, particle swarm optimization, and genetic algorithms, each coded manually rather than pulled from a package. `Python`
 - **[SVM-Optimization-PSO](https://github.com/aakiev/SVM-Optimization-PSO)**: A support vector machine tuned with particle swarm optimization for hyperparameter search, improving classification accuracy on the Maternal Health Risk dataset. `Python`
-- **[Robotics-AutonomousDriving](https://github.com/aakiev/Robotics-AutonomousDriving)**: Hardware and software integration for autonomous vehicle navigation in ROS2, from the university robotics module. `Python` `ROS2`
+- **[Robotics-AutonomousDriving](https://github.com/aakiev/Robotics-AutonomousDriving)**: Hardware and software integration for autonomous vehicle navigation in ROS2, from the university robotics module. `Python` `C++` `ROS2`
 
 ---
 
