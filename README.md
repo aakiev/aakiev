@@ -1,6 +1,6 @@
 # Malik Akiev
 
-**Electrical and Automation engineer working across machine learning, control theory, robotics and scientific software.**
+**Electrical and Automation Engineer working across machine learning, control theory, robotics and scientific software.**
 
 ---
 
