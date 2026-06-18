@@ -1,6 +1,8 @@
-# Malik Akiev
+<h1 align="center">Malik Akiev</h1>
 
-**Electrical and Automation Engineer working across machine learning, control theory, robotics and scientific software.**
+<p align="center"><b>Electrical and Automation Engineer working across machine learning, control theory, robotics, and scientific software.</b></p>
+
+I'm a robotics and hardware engineer at **[Tario Marine Technologies](https://tariomarine.com)** in Toronto, building autonomous surface vessel (ASV) hardware across mechanics, electronics, and control software. Before Toronto I graduated top of my year in Electrical Engineering (Automation Technology) and published first-author research on physics-based modeling of compressor performance maps. I build systems from the ground up, from neural networks written by hand to control loops running on real hardware.
 
 ---
 
@@ -33,15 +35,17 @@ Software for a dynamic laser beam shaping prototype: Python backend, C# frontend
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0C54C2?style=flat&logo=windows&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244B5A?style=flat&logo=grpc&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" alt="ROS2">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/WPF-0C54C2?style=flat&logo=windows&logoColor=white" alt="WPF">
+  <img src="https://img.shields.io/badge/gRPC-244B5A?style=flat&logo=grpc&logoColor=white" alt="gRPC">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
@@ -60,6 +64,8 @@ GPA equivalent 3.8/4.0 (German grade 1.4)
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-akiev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:abdulmalikakiev@yahoo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aakiev)
+<p align="center">
+  <a href="https://linkedin.com/in/malik-akiev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abdulmalikakiev@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/aakiev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
