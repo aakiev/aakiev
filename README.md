@@ -1,6 +1,6 @@
-<h1 align="center">Malik Akiev</h1>
-
-<p align="center"><b>Electrical and Automation Engineer working across machine learning, control theory, robotics, and scientific software.</b></p>
+<p align="center">
+  <img src="banner.svg" alt="Malik Akiev | Electrical Engineering | Software | Robotics" width="100%">
+</p>
 
 I'm a robotics and hardware engineer at **[Tario Marine Technologies](https://tariomarine.com)** in Toronto, building autonomous surface vessel (ASV) hardware across mechanics, electronics, and control software. Before Toronto I graduated top of my year in Electrical Engineering (Automation Technology) and published first-author research on physics-based modeling of compressor performance maps. I build systems from the ground up, from neural networks written by hand to control loops running on real hardware.
 
@@ -36,15 +36,7 @@ Software for a dynamic laser beam shaping prototype: Python backend, C# frontend
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" alt="ROS2">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/WPF-0C54C2?style=flat&logo=windows&logoColor=white" alt="WPF">
-  <img src="https://img.shields.io/badge/gRPC-244B5A?style=flat&logo=grpc&logoColor=white" alt="gRPC">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,dotnet,tensorflow,ros,raspberrypi,arduino,git&perline=9" alt="Python, C++, C#, .NET, TensorFlow, ROS, Raspberry Pi, Arduino, Git">
 </p>
 
 ---
