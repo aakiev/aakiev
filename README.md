@@ -58,7 +58,7 @@ GPA equivalent 3.8/4.0 (German grade 1.4)
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/malik-akiev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/malik-akiev-57363a275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:abdulmalikakiev@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://github.com/aakiev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
